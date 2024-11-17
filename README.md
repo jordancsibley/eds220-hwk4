@@ -15,7 +15,7 @@ eds220-hwk4
 |   .gitignore
 │
 └───data
-    │   thomas-fire-boundary-file
+    │  fire-boundary-data
 ```
 ## Data Access 
 This project required two datasets to provide the remote sensing data and fire perimeter data. 
