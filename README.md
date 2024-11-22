@@ -38,7 +38,3 @@ Master of Environmental Data Science Student, Bren School of Environmental Scien
 jcsibley@bren.ucsb.edu
 
 jordan.c.sibley@gmail.com 
-
-## Acknowledgements 
-
-
